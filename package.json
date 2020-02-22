@@ -1,0 +1,15 @@
+{
+  "name": "expobot",
+  "version": "1.0.0",
+  "description": "This bot was used to manage the 2020 Expo Hacks III discord server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anshul Kashyap",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "googleapis": "^39.2.0"
+  }
+}
